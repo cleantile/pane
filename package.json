@@ -1,0 +1,33 @@
+{
+  "name": "@cleantile/pane",
+  "version": "0.1.0",
+  "description": "cleantile-pane Polymer element.",
+  "main": "cleantile-pane.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cleantile/pane.git"
+  },
+  "keywords": [
+    "polymer",
+    "web-components",
+    "tabs",
+    "control",
+    "tiling"
+  ],
+  "author": "Ryan Leonard (http://ryanleonard.us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cleantile/pane/issues"
+  },
+  "homepage": "https://github.com/cleantile/pane",
+  "dependencies": {
+    "@polymer/polymer": "1.2.5-npm-test.2"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/",
+    "access": "public"
+  }
+}
